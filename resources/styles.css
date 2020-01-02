@@ -1,0 +1,187 @@
+.background {
+  viewport-fill: black;
+}
+
+#It {
+  x: 10;
+  y: 35;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Is {
+  x: 70;
+  y: 35;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Half {
+  x: 130;
+  y: 35;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Ten1 {
+  x: 235;
+  y: 35;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}
+
+
+#Quarter {
+  x: 8;
+  y: 70;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Twenty {
+  x: 162;
+  y: 70;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}
+
+
+#Five1 {
+  x: 10;
+  y: 105;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Minutes {
+  x: 95;
+  y: 105;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#To {
+  x: 252;
+  y: 105;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}
+
+
+#Past {
+  x: 10;
+  y: 140;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#One {
+  x: 110;
+  y: 140;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Three {
+  x: 192;
+  y: 140;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}
+
+
+#Two {
+  x: 10;
+  y: 175;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Four {
+  x: 115;
+  y: 175;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Five2 {
+  x: 226;
+  y: 175;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}
+
+
+#Six {
+  x: 10;
+  y: 210;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Seven {
+  x: 78;
+  y: 210;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Eight {
+  x: 198;
+  y: 210;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}
+
+
+#Nine {
+  x: 10;
+  y: 245;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Ten2 {
+  x: 95;
+  y: 245;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Eleven {
+  x: 174;
+  y: 245;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}
+
+
+#Twelve {
+  x: 10;
+  y: 280;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}#Clock {
+  x: 152;
+  y: 280;
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: white;
+}

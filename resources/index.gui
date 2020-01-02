@@ -1,0 +1,32 @@
+<svg class="background">
+  <text id="It">IT</text>
+  <text id="Is">IS</text>
+  <text id="Half">HALF</text>
+  <text id="Ten1">TEN</text>
+
+  <text id="Quarter">QUARTER</text>
+  <text id="Twenty">TWENTY</text>
+
+  <text id="Five1">FIVE</text>
+  <text id="Minutes">MINUTES</text>
+  <text id="To" >TO</text>
+
+  <text id="Past" >PAST</text>
+  <text id="One" >ONE</text>
+  <text id="Three">THREE</text>
+
+  <text id="Two">TWO</text>
+  <text id="Four" >FOUR</text>
+  <text id="Five2" >FIVE</text>
+
+  <text id="Six" >SIX</text>
+  <text id="Seven">SEVEN</text>
+  <text id="Eight" >EIGHT</text>
+
+  <text id="Nine" >NINE</text>
+  <text id="Ten2" >TEN</text>
+  <text id="Eleven">ELEVEN</text>
+
+  <text id="Twelve">TWELVE</text>
+  <text id="Clock" >O'CLOCK</text>
+</svg>

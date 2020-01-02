@@ -1,0 +1,23 @@
+{
+  "fitbit": {
+    "appUUID": "7f8bb8ca-e943-4498-ae23-e3eac037335e",
+    "appType": "clockface",
+    "appDisplayName": "Word Clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Word Clock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
